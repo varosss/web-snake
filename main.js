@@ -129,23 +129,7 @@ function spawnFood() {
 function chooseFoodType() {
   const rolls = [];
 
-  if (
-    MODES[selectedModeIndex] === MODE_CHAOS &&
-    !powerMode &&
-    snake.length >= 5
-  ) {
-    rolls.push({ type: FOOD_POWER, weight: 2 });
-  }
-
-  if (
-    MODES[selectedModeIndex] === MODE_CHAOS &&
-    speed > SPEED_SLOWED &&
-    snake.length >= 7
-  ) {
-    rolls.push({ type: FOOD_SLOW, weight: 4 });
-  }
-
-  rolls.push({ type: FOOD_NORMAL, weight: 10 });
+  rolls.push({ type: FOOD_POWER, weight: 2 });
 
   return weightedRandom(rolls);
 }
