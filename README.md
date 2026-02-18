@@ -48,14 +48,28 @@ The most difficult map due to the huge number of walls and narrow openings in wh
 
 A classic snake game in which the main goal is to eat as much food as possible, new food appears after the previous one has been eaten
 
+<img width="755" height="758" alt="image" src="https://github.com/user-attachments/assets/73f3f976-213a-475f-a05e-73eeca649425" />
+
+
 ### Chaos
 
 Modified gameplay for the regular snake. Now, not only regular food appears, but also special food that changes the snake's behavior.
+
+<img width="753" height="753" alt="image" src="https://github.com/user-attachments/assets/5981e39c-0d66-4540-8687-a5fd8d3c5f6c" />
+
 
 **Slow food**
 
 Eating this food temporarily slows down the snake's movement, making it easier to maneuver.
 
+<img width="321" height="351" alt="image" src="https://github.com/user-attachments/assets/7b56e653-1013-47d4-ad28-2007bd4a34a0" />
+
 **Power food**
 
 Eating this food temporarily turns the snake a different color and gives it the super power to break walls.
+
+<img width="279" height="256" alt="image" src="https://github.com/user-attachments/assets/11d86088-837d-4d90-a693-0976b5d5c30f" />
+
+<img width="402" height="339" alt="image" src="https://github.com/user-attachments/assets/e4779398-9ef7-450b-87f5-6ec6bd33eb1d" />
+
+
