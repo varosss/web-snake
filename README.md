@@ -70,6 +70,7 @@ Eating this food temporarily turns the snake a different color and gives it the 
 
 <img width="279" height="256" alt="image" src="https://github.com/user-attachments/assets/11d86088-837d-4d90-a693-0976b5d5c30f" />
 
-<img width="402" height="339" alt="image" src="https://github.com/user-attachments/assets/e4779398-9ef7-450b-87f5-6ec6bd33eb1d" />
+<img width="751" height="757" alt="image" src="https://github.com/user-attachments/assets/8724f778-7fe9-4f87-85ad-3b210204465c" />
+
 
 
